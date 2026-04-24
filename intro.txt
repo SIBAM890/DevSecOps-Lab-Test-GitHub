@@ -1,2 +1,7 @@
 Hello, my name is Sibam.
 I am a student interested in programming and technology.
+Skills:
+- Python
+- C Programming
+- Machine Learning Basics
+- DSA PYTHON
